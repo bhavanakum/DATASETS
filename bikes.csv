@@ -1,0 +1,86 @@
+Brand,Engine_Power,Torque,Fuel_Consumption
+Harley-Davidson,120,150,20
+Honda,150,130,25
+Yamaha,140,125,26
+Kawasaki,160,140,24
+Ducati,180,155,22
+BMW Motorrad,170,145,23
+Suzuki,130,120,27
+Triumph,155,135,25
+KTM,165,140,24
+Aprilia,170,150,21
+Indian Motorcycle,145,125,26
+Royal Enfield,100,90,30
+MV Agusta,190,160,20
+Moto Guzzi,150,130,25
+Buell,135,120,28
+Zero Motorcycles,110,100,35
+Victory Motorcycles,155,135,26
+Bimota,200,170,18
+Benelli,140,125,27
+Hyosung,130,110,29
+Daelim,125,115,31
+Husqvarna,155,140,26
+Harley-Davidson,180,170,19
+Ducati,200,160,21
+Kawasaki,175,155,23
+BMW Motorrad,190,180,20
+Honda,160,150,24
+Yamaha,150,140,25
+Triumph,165,155,22
+Suzuki,145,135,26
+KTM,170,160,23
+Aprilia,185,170,20
+Moto Guzzi,135,125,28
+Royal Enfield,110,100,30
+Indian Motorcycle,155,145,24
+MV Agusta,210,190,18
+Hyosung,120,110,32
+Buell,140,130,27
+Benelli,130,120,29
+Victory Motorcycles,165,155,25
+Zero Motorcycles,120,110,33
+Bimota,210,180,17
+Daelim,130,120,30
+Harley-Davidson,200,190,18
+Kawasaki,185,170,22
+Ducati,220,180,20
+BMW Motorrad,200,190,19
+Honda,170,160,23
+Yamaha,160,150,24
+Triumph,175,165,21
+Suzuki,150,140,25
+KTM,185,175,21
+Aprilia,200,180,18
+Moto Guzzi,145,135,27
+Royal Enfield,120,110,31
+Indian Motorcycle,170,160,23
+MV Agusta,230,200,17
+Hyosung,125,115,32
+Buell,150,140,26
+Benelli,140,130,28
+Victory Motorcycles,175,165,24
+Zero Motorcycles,130,120,34
+Bimota,220,190,16
+Daelim,140,130,29
+Harley-Davidson,220,200,17
+Kawasaki,200,180,21
+Ducati,240,200,19
+BMW Motorrad,210,200,18
+Honda,180,170,22
+Yamaha,170,160,23
+Triumph,185,175,20
+Suzuki,160,150,26
+KTM,200,190,20
+Aprilia,220,200,17
+Moto Guzzi,155,145,28
+Royal Enfield,130,120,32
+Indian Motorcycle,180,170,22
+MV Agusta,250,220,16
+Hyosung,130,120,33
+Buell,160,150,27
+Benelli,150,140,29
+Victory Motorcycles,185,175,25
+Zero Motorcycles,140,130,35
+Bimota,230,200,15
+Daelim,150,140,30
